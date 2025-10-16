@@ -1,0 +1,46 @@
+use teatro_lirico
+
+db.obras.insertMany([
+  {
+    titulo: "La canción del olvido",
+    compositor: ["José Serrano"],
+    libretistas: ["Federico Romero", "Guillermo Fernández-Shaw"],
+    año: 1916,
+    genero: "Zarzuela"
+  },
+  {
+    titulo: "Doña Francisquita",
+    compositor: ["Amadeo Vives"],
+    libretistas: ["Federico Romero", "Guillermo Fernández-Shaw"],
+    año: 1923,
+    genero: "Zarzuela"
+  },
+  {
+    titulo: "Luisa Fernanda",
+    compositor: ["Federico Moreno Torroba"],
+    libretistas: ["Federico Romero", "Guillermo Fernández-Shaw"],
+    año: 1932,
+    genero: "Zarzuela"
+  },
+  {
+    titulo: "La del manojo de rosas",
+    compositor: ["Pablo Sorozábal"],
+    libretistas: ["Anselmo Cuadrado Carreño", "Francisco Ramos de Castro"],
+    año: 1934,
+    genero: "Zarzuela"
+  },
+  {
+    titulo: "La verbena de la Paloma",
+    compositor: ["Tomás Bretón"],
+    libretistas: ["Ricardo de la Vega"],
+    año: 1894,
+    genero: "Zarzuela"
+  },
+  {
+    titulo: "Don Giovanni",
+    compositor: ["Wolfgang Amadeus Mozart"],
+    libretistas: ["Lorenzo Da Ponte"],
+    año: 1787,
+    genero: "Ópera"
+  }
+])
