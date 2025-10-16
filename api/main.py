@@ -7,8 +7,8 @@ from typing import List
 
 class Obra(BaseModel):
   titulo: str
-  compositor: str
-  libretistas: List[str]
+  compositor: List[str]
+  libretista: List[str]
   año: int
   genero: str
 
