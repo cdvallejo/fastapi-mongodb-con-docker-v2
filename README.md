@@ -1,6 +1,6 @@
 # Base de datos MongoDB con FastApi y Python
 
-Aplicación que muestra con python, motor y fastapi una colección de obras en mongodb
+Aplicación que muestra con python, motor y fastapi una colección de obras en mongodb. Montado en Docker.
 
 ---
 * Realizado para la clase "Desarrollo de aplicaciones web en el entorno servidor".
