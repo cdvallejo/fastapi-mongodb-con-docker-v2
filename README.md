@@ -1,13 +1,35 @@
-# Base de datos MongoDB con FastApi y Python
+# 🐍 Base de datos MongoDB con FastAPI y Python
 
-Aplicación que muestra con python, motor y fastapi una colección de obras en mongodb. Montado en Docker.
+Aplicación desarrollada con **Python**, **FastAPI** y **MongoDB**, que muestra una colección de obras artísticas.  
+Todo el proyecto está **contenedorizado con Docker** 🐳.
 
 ---
-* Realizado para la clase "Desarrollo de aplicaciones web en el entorno servidor".
-* **Certificado de Desarrollo de Aplicaciones con Tecnología Web (IFCD2010)**, impartido por el **CPIFP Alan Turing**.
-* Profesor: Luis José Sánchez González.
 
-Dale una ⭐ a este repo si te ha gustado.
+## 🧰 Tecnologías utilizadas
+
+| Tecnología | Descripción |
+|-------------|-------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Lenguaje principal del backend |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) | Framework moderno y rápido para crear APIs |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | Base de datos NoSQL utilizada para almacenar las obras |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | Sistema de contenedores para desplegar la aplicación |
+
+---
+
+## 📚 Proyecto académico
+
+💡 Proyecto realizado para la asignatura **"Desarrollo de aplicaciones web en el entorno servidor"**  
+📜 Dentro del **Certificado de Desarrollo de Aplicaciones con Tecnología Web (IFCD2010)**  
+🏫 Impartido por el **CPIFP Alan Turing**  
+👨‍🏫 Profesor: **Luis José Sánchez González**
+
+---
+
+## ⭐ Contribuye
+
+Si te ha gustado este proyecto, ¡no olvides dejar una ⭐ en el repositorio!
+
+---
 
 ## Galería:
 Principal
